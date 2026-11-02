@@ -1,0 +1,26 @@
+# Ahmed Wafaey
+
+> Applied AI product leader based in Berlin. Takes frontier AI from demo to production in messy, multi-market businesses. Languages: English, Arabic, German.
+
+## Current
+- Delivery Hero: Senior Director of Product, Growth & AI, Quick Commerce (Jul 2022 – present). 7 brands, 4 domains, 17 squads, 75 countries. Quick commerce grew from 4% to 12% of GMV contribution. Leads the AI practice for the teams.
+- ProductVoyagers Labs (founder, 2024 – present): fustat.ai (AI evaluation of product design against business goals; 20 customers in first month), korba.ai (AI browser where people and agents work side by side), telos (open-source Claude Code plugin).
+- rituals.pm (co-founder, 2025 – present): AI PM Builders cohorts in English and Arabic; open-source pm-os and claude-101.
+- Instructor on LLMs, agents and Claude (Maven, Zomra); writes Product Voyagers (productvoyagers.com).
+
+## Previous
+- Wayfair, Product Lead Internationalization (2021–2022): ML localization protecting $1.6B annual revenue.
+- Careem / Uber, Lead PM Super App (2020–2021): 48M users.
+- Boeing Data Analytics Labs, Sr. Strategic PM (2018–2020): data marketplace for 150+ operators.
+- Ericsson (2011–2018), Nokia, Etisalat, ITWorx (software engineer, 2006): enterprise telecom systems.
+
+## Education
+- Executive MBA, Durham University Business School
+
+## Best fit
+Applied / forward-deployed AI product roles; agentic commerce and growth; AI deployment across EMEA and MENA.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/awafaey
+- GitHub: https://github.com/awafaey0
+- Writing: https://www.productvoyagers.com
