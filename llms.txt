@@ -4,7 +4,7 @@
 
 ## Current
 - Delivery Hero: Senior Director of Product, Growth & AI, Quick Commerce (Jul 2022 – present). 7 brands, 4 domains, 17 squads, 75 countries. Quick commerce grew from 4% to 12% of GMV contribution. Leads the AI practice for the teams.
-- ProductVoyagers Labs (founder, 2024 – present): fustat.ai (AI evaluation of product design against business goals; 20 customers in first month), korba.ai (AI browser where people and agents work side by side), telos (open-source Claude Code plugin).
+- ProductVoyagers Labs (founder, 2024 – present): fustat.ai (AI evaluation of product design against business goals: critic + LLM-as-judge with hallucination guard, persona ensemble with self-consistency sampling, model-routing experiments, golden-set regression suite; 20 customers in first month), korba.ai (AI browser where people and agents work side by side), telos (open-source Claude Code plugin).
 - rituals.pm (co-founder, 2025 – present): AI PM Builders cohorts in English and Arabic; open-source pm-os and claude-101.
 - Instructor on LLMs, agents and Claude (Maven, Zomra); writes Product Voyagers (productvoyagers.com).
 
