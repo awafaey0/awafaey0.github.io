@@ -1,26 +1,23 @@
 # Ahmed Wafaey · CV
 
-> Applied AI product leader, Berlin. Senior Director of Product, Growth & AI at Delivery Hero; builder of fustat.ai and korba.ai; ventures: rituals.pm, EBS Dx. English, Arabic, German. Executive MBA, Durham University Business School.
+> Applied AI product leader, Berlin. Senior Director of Product, Growth & AI at Delivery Hero; builder of fustat.ai and korba.ai; co-founder of rituals.pm and EBS Dx. English, Arabic, German. Executive MBA, Durham University Business School.
 
 ## Applied AI at scale (2022 → now)
 - Senior Director of Product, Growth & AI · Quick Commerce, Delivery Hero (Jul 2022 – Present, Berlin, Germany)
   - Lead product, design, analytics, data engineering and product operations for the Growth line of the world's largest quick-commerce business: 7 brands, 4 domains, 17 squads, 75 countries.
-  - Led the Growth product line as quick commerce grew from 4% to 19% of group GMV (Q3 2026, +39% YoY), and grew assortment by 11%.
+  - Led the Growth product line as quick commerce grew from 4% to 19% of group GMV, the group's key growth engine; grew assortment by 11%.
   - Led Delivery Hero's largest programme: moving the customer experience from store-first to item-first.
   - Established the product operating model for all of Quick Commerce, from problem assessment through launch and learn.
   - Founded the AI practice and guided teams in applying LLMs to content enrichment and discovery.
   - Strengthened the organisation by 24%, adding global product operations, analytics and design.
 
-## Ventures (alongside Delivery Hero)
+## Built alongside (Delivery Hero · 2024 → now)
 - Founder, ProductVoyagers Labs (Oct 2024 – Present, Berlin)
-  - Independent AI studio where I design, build and ship AI products hands-on: <a href="https://fustat.ai">fustat.ai</a> and <a href="https://korba.ai">korba.ai</a>.
-  - Write <a href="https://www.productvoyagers.com">Product Voyagers</a> on product and AI.
-- Co-founder, rituals.pm (Mar 2025 – Present, EMEA)
-  - Cohort programmes in English and Arabic where PMs build and launch real AI products (AI PM Builders).
-  - Open-sourced pm-os (an AI-native PM team OS) and claude-101 (a 25-lesson course that runs inside Claude).
+  - Design, build and ship AI products hands-on.
+  - <a href="https://fustat.ai">fustat.ai</a>: AI evaluation for product design. An LLM-as-judge scores every screen against the business goal it has to move, with persona ensembles and human override. <a href="https://github.com/awafaey0#user-content-fustatai-every-screen-on-trial">How it's built →</a>
+  - <a href="https://korba.ai">korba.ai</a>: an agentic AI browser where people and agents work on the same page, terminal and document; Tauri 2, Rust and MCP. <a href="https://github.com/awafaey0#user-content-korbaai-the-ai-browser-you-work-in-with-your-agents">How it's built →</a>
 - Co-founder & Chief AI Officer, EBS Dx (Jan 2026 – Present, Saudi Arabia)
-  - Lead AI for an agentic executive-education platform for Saudi leaders: Saria, an AI learning companion, and a decision Challenge Lab, in Arabic and English.
-  - Licensed by TVTC and the National eLearning Center; supported by the Ministry of Investment.
+  - Lead AI for an agentic executive-education platform for Saudi leaders, with Saria, an AI learning companion, in Arabic and English. Licensed by TVTC and the National eLearning Center.
 
 ## Consumer platforms at scale (2020 → 2022)
 - Product Lead, Internationalization & Personalization, Wayfair (Apr 2021 – Jun 2022, Berlin, Germany)
