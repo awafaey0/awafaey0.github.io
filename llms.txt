@@ -1,25 +1,55 @@
-# Ahmed Wafaey
+# Ahmed Wafaey · CV
 
-> Applied AI product leader based in Berlin. Takes frontier AI from demo to production in messy, multi-market businesses. Languages: English, Arabic, German.
+> Applied AI product leader, Berlin. Senior Director of Product, Growth & AI at Delivery Hero; Co-founder & Chief AI Officer, EBS Dx. English, Arabic, German. Executive MBA, Durham University Business School.
 
-## Current
-- Delivery Hero: Senior Director of Product, Growth & AI, Quick Commerce (Jul 2022 – present). 7 brands, 4 domains, 17 squads, 75 countries. Quick commerce grew from 4% to 12% of GMV contribution. Leads the AI practice for the teams.
-- EBS Dx (co-founder & Chief AI Officer, 2026 – present, ebs.edu.sa): agentic AI executive education platform for Saudi leaders; role-based paths, decision Challenge Lab, Saria AI learning companion; Arabic and English; licensed by TVTC and NELC, supported by the Ministry of Investment.
-- ProductVoyagers Labs (founder, 2024 – present): fustat.ai (AI evaluation of product design against business goals: critic + LLM-as-judge with hallucination guard, persona ensemble with self-consistency sampling, model-routing experiments, golden-set regression suite in progress; 20 customers in first month), korba.ai (AI browser where people and agents work side by side), telos (open-source Claude Code plugin).
-- rituals.pm (co-founder, 2025 – present): AI PM Builders cohorts in English and Arabic; open-source pm-os and claude-101.
-- Instructor on LLMs, agents and Claude (Maven, Zomra); writes Product Voyagers (productvoyagers.com).
+## Applied AI at scale (2022 → now)
+- Senior Director of Product, Growth & AI · Quick Commerce, Delivery Hero (Jul 2022 – Present, Berlin, Germany)
+  - Lead product, design, analytics, data engineering and product operations for the Growth line of the world's largest quick-commerce business: 7 brands, 4 domains, 17 squads, 75 countries.
+  - Grew quick commerce's GMV contribution from 4% to 18% (4.5×) and assortment by 11%.
+  - Led Delivery Hero's largest programme: moving the customer experience from store-first to item-first.
+  - Established the product operating model for all of Quick Commerce, from problem assessment through launch and learn.
+  - Founded the AI practice and guided teams in applying LLMs to content enrichment and discovery.
+  - Strengthened the organisation by 24%, adding global product operations, analytics and design.
+- Co-founder & Chief AI Officer, EBS Dx (Jan 2026 – Present, Saudi Arabia · Remote)
+  - Co-founded an agentic AI executive-education platform for Saudi leaders; lead AI product and architecture.
+  - Saria, an AI learning companion, role-based learning paths and a decision Challenge Lab, in Arabic and English.
+  - Licensed by TVTC and the National eLearning Center; supported by the Ministry of Investment.
+- Founder, ProductVoyagers Labs (Oct 2024 – Present, Berlin · Remote)
+  - fustat.ai: AI evaluation of product design against business goals (LLM-as-judge, persona ensembles). 20 customers in its first month.
+  - korba.ai: an AI browser where people and agents work side by side; Tauri 2 / Rust, MCP, local-first.
+  - Product Voyagers: Substack on product and AI.
+- Co-founder, rituals.pm (Mar 2025 – Present, EMEA · Remote)
+  - Cohort programmes in English and Arabic where PMs build and launch real AI products (AI PM Builders).
+  - Open-sourced pm-os (AI-native PM team OS) and claude-101 (a 25-lesson course inside Claude).
 
-## Previous
-- Wayfair, Product Lead Internationalization (2021–2022): ML localization protecting $1.6B annual revenue.
-- Careem / Uber, Lead PM Super App (2020–2021): 48M users.
-- Boeing Data Analytics Labs, Sr. Strategic PM (2018–2020): data marketplace for 150+ operators.
-- Ericsson (2011–2018), Nokia, Etisalat, ITWorx (software engineer, 2006): enterprise telecom systems.
+## Consumer platforms at scale (2020 → 2022)
+- Product Lead, Internationalization & Personalization, Wayfair (Apr 2021 – Jun 2022, Berlin, Germany)
+  - Rebuilt product discovery and localization for international stores, protecting $1.6B in annual gross revenue.
+  - Improved localization accuracy by 24% with ML in production.
+  - Raised AOV by 8% and cut time-to-market by 48% for teams launching new markets.
+- Lead Product Manager, Super App, Careem (Uber) (Jul 2020 – Mar 2021, Berlin, Germany)
+  - Launched MENA's first Super App across mobility, delivery and payments, scaling to 48M users.
+  - Raised service discovery by 31%; launched the loyalty programme and streamlined partner onboarding.
+- Independent Product Advisor & Coach, Breadfast and others (Feb 2020 – Aug 2022, Remote)
+  - Advised quick-commerce and grocery startups on growth and product strategy; coached PMs into their next roles.
 
-## Education
-- Executive MBA, Durham University Business School
+## Data products (2018 → 2020)
+- Senior Strategic Product Manager, Data Analytics Labs, Boeing (Apr 2018 – Jul 2020, Frankfurt, Germany)
+  - Turned aviation data into revenue: built a B2B2C data marketplace serving 150+ airline operators.
+  - Launched Map-Kit and an analytics suite; reduced cloud costs by 45%.
+  - Boeing Star Performer Award, 2018.
 
-## Best fit
-Applied / forward-deployed AI product roles; agentic commerce and growth; AI deployment across EMEA and MENA.
+## Enterprise systems (2006 → 2018)
+- Strategic Product Manager · Customer Solutions Architect · BSS Solution Integrator, Ericsson (Jun 2011 – Mar 2018, Frankfurt, Germany · Egypt)
+  - Led the Digital Experience Platform (DXP) launch across 3 telecom operators, integrating CPQ and Customer360; cut operating costs by 35%.
+  - Led onsite integration teams putting billing, CRM and order systems into large operators across Europe, the Middle East and Asia.
+  - Co-authored Ericsson's DBSS technical certification exams.
+- Senior Consultant, Nokia (May 2010 – Jun 2011, Jordan)
+  - Led data migration strategy, including customisation and customer-care tools.
+- CRM / Billing & Provisioning Lead, Etisalat (Jan 2009 – Jun 2010, Egypt)
+  - Owned CRM platform strategy: 360° customer view and unified self-care across channels, integrated with billing and charging.
+- Senior Lead Software Engineer, ITWorx (Dec 2006 – Dec 2008, Egypt)
+  - Led content-management integrations for clients in the US and the Middle East (Dubai Media Office, du).
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/awafaey
