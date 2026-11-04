@@ -12,9 +12,8 @@
 
 ## Built alongside (Delivery Hero · 2024 → now)
 - Founder, ProductVoyagers Labs (Oct 2024 – Present, Berlin)
-  - Design, build and ship AI products hands-on.
-  - <a href="https://fustat.ai">fustat.ai</a>: AI evaluation for product design. An LLM-as-judge scores every screen against the business goal it has to move, with persona ensembles and human override. <a href="https://github.com/awafaey0#user-content-fustatai-every-screen-on-trial">How it's built →</a>
-  - <a href="https://korba.ai">korba.ai</a>: build AI workflows visually. Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run; Tauri 2 and Rust. <a href="https://github.com/awafaey0#user-content-korbaai-the-ai-browser-you-work-in-with-your-agents">How it's built →</a>
+  - <a href="https://fustat.ai">fustat.ai</a>: AI evaluation for product design. An LLM-as-judge scores every screen against the business goal it has to move, with persona ensembles and human override. <a class="how" href="https://github.com/awafaey0#user-content-fustatai-every-screen-on-trial">How it's built →</a>
+  - <a href="https://korba.ai">korba.ai</a>: build AI workflows visually. Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run; Tauri 2 and Rust. <a class="how" href="https://github.com/awafaey0#user-content-korbaai-the-ai-browser-you-work-in-with-your-agents">How it's built →</a>
 - Co-founder & Chief AI Officer, EBS Dx (Jan 2026 – Present, Saudi Arabia)
   - Lead AI for an agentic executive-education platform for Saudi leaders, with Saria, an AI learning companion, in Arabic and English. Licensed by TVTC and the National eLearning Center.
 
@@ -27,7 +26,7 @@
   - Launched MENA's first Super App across mobility, delivery and payments, scaling to 48M users.
   - Raised service discovery by 31%; launched the loyalty programme and streamlined partner onboarding.
 - Independent Product Advisor & Coach, Breadfast and others (Feb 2020 – Aug 2022, Remote)
-  - Advised quick-commerce and grocery startups on growth and product strategy; coached PMs into their next roles.
+  - Advised quick-commerce and grocery startups on growth; coached PMs.
 
 ## Data products (2018 → 2020)
 - Senior Strategic Product Manager, Data Analytics Labs, Boeing (Apr 2018 – Jul 2020, Frankfurt, Germany)
