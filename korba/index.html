@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>korba.ai · under the hood · Ahmed Wafaey</title><meta name="description" content="How korba.ai is built: Tauri 2 and Rust, plays, skills, MCP, a share-to-install loop, an agent team, and the decisions behind them.">
+<meta property="og:title" content="korba.ai · under the hood · Ahmed Wafaey"><meta property="og:description" content="How korba.ai is built: Tauri 2 and Rust, plays, skills, MCP, a share-to-install loop, an agent team, and the decisions behind them.">
+<link rel="alternate" type="text/plain" href="../llms.txt" title="llms.txt">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/site.css"></head>
+<body><div class="wrap">
+<nav><a class="me" href="../">Ahmed Wafaey</a><a href="../" class="">Home</a><a href="../fustat/" class="">fustat</a><a href="../korba/" class="on">korba</a><a href="../decisions/" class="">Decisions</a><a href="https://github.com/awafaey0">GitHub</a><a href="https://www.linkedin.com/in/awafaey">LinkedIn</a></nav>
+
+<div class="kicker mono">Product · korba.ai · founder</div><h1>The AI browser you work in, with your agents.</h1>
+<p class="lede">For thirty years the web was something you watched. In korba, you and your agents work on the same page, terminal and document.</p>
+<p class="meta"><a href="https://korba.ai">korba.ai</a> · free for Mac · Tauri 2, Rust, MCP, Claude, Cloudflare</p>
+<section><h2><span class="mono">01</span>Under the hood</h2><div class="wide"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/korba-dark.svg"><img alt="korba: surface, plays, skills, MCP and models; built by one founder with an agent team; share-to-install growth loop." src="../assets/korba-light.svg"></picture></div><div class="hint">← swipe to see the whole diagram →</div></section>
+<section><h2><span class="mono">02</span>Architecture decisions</h2><article class="adr" id="k-01"><header><span class="mono kicker">K-01 · korba · Apr 2026</span>
+<span class="chip validated">validated</span></header><h3>Leave Electron for Tauri 2 and the system WebView</h3>
+<dl><dt>Context</dt><dd>Google blocks sign-in inside embedded Chromium (<code>disallowed_useragent</code>), so users couldn't open Gmail or Drive in korba. And <code>node-pty</code> can't pass the Mac App Store sandbox.</dd><dt>Decision</dt><dd>Move to Tauri 2 with WKWebView and an explicit Safari user agent. Prove it first with a 5-day spike: renderer sealed, one success criterion per day, abort if any day fails.</dd>
+<dt>Evidence</dt><dd>Day 3 was the whole thesis: a real Google login end-to-end. It passed on 24 Apr 2026, no OAuth fallback needed.</dd><dt>Consequence</dt><dd>Rust backend (25+ modules), native PTY, a smaller app. Accepted risk: a standing bet that Google's detection doesn't tighten.</dd></dl></article><article class="adr" id="k-02"><header><span class="mono kicker">K-02 · korba · 2026</span>
+<span class="chip accepted">accepted</span></header><h3>One play engine: shared context, smart wiring</h3>
+<dl><dt>Context</dt><dd>Plays (multi-step agent pipelines) handed off between steps through a rigid JSON block. If step A didn't emit the exact shape, step B silently did nothing.</dd><dt>Decision</dt><dd>Retire the JSON hand-off. Run every play as one continuous agent turn, and reshape each step's output to fit the next step's input in flight.</dd>
+<dt>Evidence</dt><dd>The silent-failure bug lived in the hand-off path itself; removing the path removes the bug class.</dd><dt>Consequence</dt><dd>Gate what the agent composes (grey dot, plain-language plan, explicit run); trust what the user saved. The difference teaches the trust model.</dd></dl></article><article class="adr" id="k-03"><header><span class="mono kicker">K-03 · korba · May 2026</span>
+<span class="chip accepted">accepted</span></header><h3>No accounts first</h3>
+<dl><dt>Context</dt><dd>Accounts become a gravity well: every feature starts to require one.</dd><dt>Decision</dt><dd>Identity is a publisher keypair in the macOS Keychain, exportable as an encrypted file. Accounts are a power-user upgrade, never a gate.</dd>
+<dt>Evidence</dt><dd>The test for every feature: can someone without an account publish a space, get 500 followers, and have them receive updates?</dd><dt>Consequence</dt><dd>Free tier is genuinely useful; paid tier is publisher tools (sync, analytics, vanity URLs).</dd></dl></article><article class="adr" id="k-04"><header><span class="mono kicker">K-04 · korba · May 2026</span>
+<span class="chip accepted">accepted</span></header><h3>Sharing is acquisition: never tax distribution</h3>
+<dl><dt>Context</dt><dd>Every shared space is opened by someone who may not have korba yet.</dd><dt>Decision</dt><dd>Sharing stays free and unlimited; price the value received, not distribution. Count the loop end to end with an anonymous install id.</dd>
+<dt>Evidence</dt><dd>Share link → download → install attribution proven end to end on real Macs, with no accounts and no database.</dd><dt>Consequence</dt><dd>Growth and monetisation run on one loop: publish → distribute → consume → count → dashboard.</dd></dl></article></section>
+
+<footer>© 2026 Ahmed Wafaey · Berlin · <a href="../llms.txt" class="mono">llms.txt</a> · same source as <a href="https://github.com/awafaey0">github.com/awafaey0</a></footer>
+</div></body></html>
