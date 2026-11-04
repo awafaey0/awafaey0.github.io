@@ -1,6 +1,6 @@
 # Ahmed Wafaey · CV
 
-> Applied AI product leader, Berlin. Senior Director of Product, Growth & AI at Delivery Hero; builder of fustat.ai and korba.ai; co-founder of rituals.pm and EBS Dx. English, Arabic, German. Executive MBA, Durham University Business School.
+> Applied AI product leader, Berlin. Senior Director of Product, Growth & AI at Delivery Hero; builder of fustat.ai and korba.ai; co-founder of rituals.pm; AI Advisor to EBS Dx. English, Arabic, German. Executive MBA, Durham University Business School.
 
 ## Applied AI at scale (2022 → now)
 - Product Lead, Growth & AI · Quick Commerce, Delivery Hero (Jul 2022 – Present, Berlin, Germany)
@@ -14,8 +14,8 @@
 - Founder, ProductVoyagers Labs (Oct 2024 – Present, Berlin)
   - <a href="https://fustat.ai">fustat.ai</a>: AI evaluation for product design. An LLM-as-judge scores every screen against the business goal it has to move, with persona ensembles and human override. <a class="how" href="https://github.com/awafaey0#user-content-fustatai-every-screen-on-trial">How it's built →</a>
   - <a href="https://korba.ai">korba.ai</a>: build AI workflows visually. Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run; Tauri 2 and Rust. <a class="how" href="https://github.com/awafaey0#user-content-korbaai-the-ai-browser-you-work-in-with-your-agents">How it's built →</a>
-- Co-founder & Chief AI Officer, EBS Dx (Jan 2026 – Present, Saudi Arabia)
-  - Lead AI for an agentic executive-education platform for Saudi leaders, with Saria, an AI learning companion, in Arabic and English. Licensed by TVTC and the National eLearning Center.
+- AI Advisor, EBS Dx (2026 – Present, Saudi Arabia)
+  - Advise on AI for an agentic executive-education platform for Saudi public-sector and enterprise leaders; licensed by TVTC and the National eLearning Center, backed by the Ministry of Investment.
 
 ## Consumer platforms at scale (2020 → 2022)
 - Product Lead, Internationalization & Personalization, Wayfair (Apr 2021 – Jun 2022, Berlin, Germany)
