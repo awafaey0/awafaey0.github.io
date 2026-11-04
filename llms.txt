@@ -10,17 +10,17 @@
   - Established the product operating model for all of Quick Commerce, from problem assessment through launch and learn.
   - Founded the AI practice and guided teams in applying LLMs to content enrichment and discovery.
   - Strengthened the organisation by 24%, adding global product operations, analytics and design.
-- Co-founder & Chief AI Officer, EBS Dx (Jan 2026 – Present, Saudi Arabia · Remote)
-  - Co-founded an agentic AI executive-education platform for Saudi leaders; lead AI product and architecture.
-  - Saria, an AI learning companion, role-based learning paths and a decision Challenge Lab, in Arabic and English.
-  - Licensed by TVTC and the National eLearning Center; supported by the Ministry of Investment.
-- Founder, ProductVoyagers Labs (Oct 2024 – Present, Berlin · Remote)
-  - fustat.ai: AI evaluation of product design against business goals (LLM-as-judge, persona ensembles). 20 customers in its first month.
-  - korba.ai: an AI browser where people and agents work side by side; Tauri 2 / Rust, MCP, local-first.
-  - Product Voyagers: Substack on product and AI.
-- Co-founder, rituals.pm (Mar 2025 – Present, EMEA · Remote)
+
+## Ventures (alongside Delivery Hero)
+- Founder, ProductVoyagers Labs (Oct 2024 – Present, Berlin)
+  - Independent AI studio where I design, build and ship AI products hands-on: <a href="https://fustat.ai">fustat.ai</a> and <a href="https://korba.ai">korba.ai</a>.
+  - Write <a href="https://www.productvoyagers.com">Product Voyagers</a> on product and AI.
+- Co-founder, rituals.pm (Mar 2025 – Present, EMEA)
   - Cohort programmes in English and Arabic where PMs build and launch real AI products (AI PM Builders).
-  - Open-sourced pm-os (AI-native PM team OS) and claude-101 (a 25-lesson course inside Claude).
+  - Open-sourced pm-os (an AI-native PM team OS) and claude-101 (a 25-lesson course that runs inside Claude).
+- Co-founder & Chief AI Officer, EBS Dx (Jan 2026 – Present, Saudi Arabia)
+  - Lead AI for an agentic executive-education platform for Saudi leaders: Saria, an AI learning companion, and a decision Challenge Lab, in Arabic and English.
+  - Licensed by TVTC and the National eLearning Center; supported by the Ministry of Investment.
 
 ## Consumer platforms at scale (2020 → 2022)
 - Product Lead, Internationalization & Personalization, Wayfair (Apr 2021 – Jun 2022, Berlin, Germany)
